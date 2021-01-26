@@ -34,5 +34,5 @@
 <a href="https://visitor-badge.laobi.icu/badge?page_id=lenferdetroud.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=lenferdetroud.visitor-badge&title=Visits" align="right" alt="Visitors"></a> 
 
 <p align="left">
-<a href="https://www.buymeacoffee.com/lenferdetroud" target="_blank"><img src="https://raw.githubusercontent.com/Lenferdetroud/misc/master/profile/icons/bmc.png" alt="Buy Me A Coffee" height="40" width="205" ></a>
+<a href="https://www.buymeacoffee.com/lenferdetroud" target="_blank"><img src="https://raw.githubusercontent.com/Lenferdetroud/misc/master/profile/icons/bmc.png" alt="Buy Me A Coffee" height="40" width="210" ></a>
 </p>
