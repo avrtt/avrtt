@@ -21,6 +21,7 @@
 ![SciPy](https://img.shields.io/badge/-SciPy-blueviolet?style=flat-square&logo=scipy)
 
 </br>
+
 --------------------------------------------------
 <p></br></p>
 <p align="left">
