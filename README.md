@@ -2,7 +2,6 @@
 - 🌎 Currently in **Novosibirsk, Russia**
 - 🔭 Studying and looking for opportunities in Data Science
 - 🎓 **Undergraduate** in applied mathematics
-- 💬 I speak **English** and **Russian**
 - 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
 
 <br>
