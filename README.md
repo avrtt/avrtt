@@ -28,7 +28,6 @@
 <p>
   <a href="https://www.linkedin.com/in/lenferdetroud" target="blank"><img src="https://img.shields.io/badge/LinkedIn-24469c?style=for-the-badge&logo=linkedin&logoColor=blue" alt="lenferdetroud" /></a> 
   <a href="https://kaggle.com/lenferdetroud" target="blank"><img src="https://img.shields.io/badge/KAGGLE-24469c?&style=for-the-badge&logo=kaggle&logoColor=9cf" alt="lenferdetroud" /></a> 
-  <a href="https://www.buymeacoffee.com/lenferdetroud" target="_blank"><img src="https://raw.githubusercontent.com/Lenferdetroud/misc/master/profile/icons/bmc.png" alt="Buy Me A Coffee" height="40" width="210" align="right" ></a>
   <a href="https://t.me/thepristinescenery" target="blank"><img src="https://img.shields.io/badge/Blog-24469c?style=for-the-badge&logo=telegram&logoColor=9cf" /></a> 
   <a href="https://www.youtube.com/channel/UCiYDX3iGKNUX9WvgH_Kr2jw" target="blank"><img src="https://img.shields.io/badge/YouTube-24469c?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 </p>
