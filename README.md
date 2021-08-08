@@ -25,6 +25,8 @@
 
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenferdetroud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 --------------------------------------------------
 <p></br></p>
 <p>
@@ -34,5 +36,4 @@
  
 </p>
   
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenferdetroud&repo=harness-the-data)](https://github.com/lenferdetroud/harness-the-data)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenferdetroud&repo=harness-the-data)](https://github.com/anuraghazra/github-readme-stats)
