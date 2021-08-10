@@ -26,7 +26,6 @@
 </br>
 
 <a href="https://kaggle.com/lenferdetroud" target="blank"><img src="https://img.shields.io/badge/KAGGLE-24469c?&style=for-the-badge&logo=kaggle&logoColor=9cf" alt="lenferdetroud" /></a> 
-<a href="https://www.youtube.com/channel/UCiYDX3iGKNUX9WvgH_Kr2jw" target="blank"><img src="https://img.shields.io/badge/The Pristine Scenery-24469c?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 <a href="https://www.youtube.com/channel/UCpPtaqqxzFqm9rZAh2xC5OA" target="blank"><img src="https://img.shields.io/badge/Harness the Data-24469c?style=for-the-badge&logo=youtube&logoColor=red" /></a>
 
 --------------------------------------------------
