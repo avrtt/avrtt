@@ -1,4 +1,4 @@
-> #### 👨🏻‍💻 Machine Learning Engineer
+> #### 👨🏻‍💻 Data Scientist
 - 🌎 Currently in **Novosibirsk, Russia**
 - 🔭 Studying and looking for opportunities in Data Science
 - 🎓 **Undergraduate** in applied mathematics
