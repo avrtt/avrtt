@@ -28,7 +28,3 @@
 ![Vim](https://img.shields.io/badge/-Vim-574f44?style=flat-square&logo=vim)
 
 </br>
-
---------------------------------------------------
-<a href="https://kaggle.com/lenferdetroud" target="blank"><img src="https://img.shields.io/badge/KAGGLE-24469c?&style=for-the-badge&logo=kaggle&logoColor=9cf" alt="lenferdetroud" /></a> 
-<a href="https://www.youtube.com/channel/UCpPtaqqxzFqm9rZAh2xC5OA" target="blank"><img src="https://img.shields.io/badge/The Zen of Data-24469c?style=for-the-badge&logo=youtube&logoColor=red" /></a>
