@@ -1,6 +1,6 @@
 > #### 👨🏻‍💻 Data Scientist
 - 🌎 Currently in **Novosibirsk, Russia**
-- 🔭 Studying and looking for opportunities in Data Science
+- 🔭 Studying
 - 🎓 **Undergraduate** in applied mathematics
 - 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
 
