@@ -1,5 +1,5 @@
 > #### 👨🏻‍💻 Data Scientist
-- 🔭 Studying and looking for a job
+- 🔭 Studying (**Novosibirsk, Russia**) and looking for work
 - 🎓 **Undergraduate** in applied mathematics
 - 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
 
