@@ -1,6 +1,6 @@
 > #### 👨🏻‍💻 Data Scientist
 - 🔭 Studying and looking for work
-- 🎓 **Undergraduate** in applied mathematics
+- 🎓 **Undergraduate** in Applied Mathematics and Computer Science
 - 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
 
 <br>
