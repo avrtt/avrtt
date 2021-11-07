@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=lenferdetroud&show_icons=true&theme=github_dark&include_all_commits=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true)" align="right">
+
 > #### 👨🏻‍💻 Data Scientist
 - 🔭 Studying and looking for work
 - 🎓 **Undergraduate** in Applied Mathematics and Computer Science
@@ -27,3 +29,10 @@
 ![Vim](https://img.shields.io/badge/-Vim-574f44?style=flat-square&logo=vim)
 
 </br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenferdetroud&theme=github_dark&repo=face-recognition" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lenferdetroud&theme=github_dark&repo=user-identification" />
+</a>
