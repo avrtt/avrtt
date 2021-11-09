@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lenferdetroud&show_icons=true&theme=github_dark&include_all_commits=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&hide_border=true)" align="right">
 
-> #### 👨🏻‍💻 Data Scientist
+> #### 👨🏻‍💻 Machine Learning Engineer / Data Scientist
 - 🔭 Studying and looking for work
 - 🎓 **Undergraduate** in Applied Mathematics and Computer Science
 - 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
