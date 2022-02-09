@@ -3,7 +3,8 @@
 > #### 👨🏻‍💻 Machine Learning Engineer / Data Scientist
 - 🔭 Studying and looking for work
 - 🎓 **Undergraduate** in Applied Mathematics and Computer Science
-- 📫 The best way to contact me: **[telegram@lenferdetroud](https://t.me/lenferdetroud)**
+- 📫 The best way to contact me: **[<img src="https://github.com/lenferdetroud/private/blob/main/tg.png" alt="telegram_icon" width="1.47%"> lenferdetroud](https://t.me/lenferdetroud)**
+- 📜 Blog: **[<img src="https://github.com/lenferdetroud/private/blob/main/tg.png" alt="telegram_icon" width="1.47%"> venturingforth](https://t.me/venturingforth)**
 
 <br>
 
