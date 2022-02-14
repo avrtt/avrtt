@@ -4,7 +4,7 @@
 - 🔭 Studying and looking for work
 - 🎓 **Undergraduate** in Applied Mathematics and Computer Science
 - 📫 The best way to contact me: **[<img src="https://github.com/lenferdetroud/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> lenferdetroud](https://t.me/lenferdetroud)**
-- 📜 Blog: **[lenferdetroud.github.io](https://lenferdetroud.github.io/)**
+- 📜 Blog: **[lenferdetroud.github.io](https://lenferdetroud.github.io/en/)**
 
 <br>
 
