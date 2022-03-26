@@ -23,10 +23,13 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-403d39?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-574f44?style=flat-square&logo=docker)
 ![Spark](https://img.shields.io/badge/-Spark-574f44?style=flat-square&logo=apache-spark)
+![Hive](https://img.shields.io/badge/-Hive-574f44?style=flat-square&logo=apache-hive)
+![Hadoop](https://img.shields.io/badge/-Hadoop-574f44?style=flat-square&logo=apache-hadoop)
 ![Colab](https://img.shields.io/badge/-Colab-574f44?style=flat-square&logo=google-colab)
 ![Git](https://img.shields.io/badge/-Git-574f44?style=flat-square&logo=git)
 ![Linux](https://img.shields.io/badge/-Arch-574f44?style=flat-square&logo=archlinux)
 ![Zsh](https://img.shields.io/badge/-zsh-574f44?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAdCAYAAAC0T3x2AAAAyWlDQ1BDdXN0b20AABiVY2Bg3M4ABEwODAy5eSVFQe5OChGRUQoMSCAxubiAATdgZGD4dg1EMjBc1g0sYeXHoxYb4CwCWgikPwCxSDqYzcgCYidB2BIgdnlJQQmQrQNiJxcUgdhAFzPwFIUEOQPZPkC2QDoSOwmJnZJanAxkxwDZ0Qi/5c9nYLD4wsDAPBEhljSNgWF7OwODxG2EmMpCBgb+VgaGbVcQYp8Dwf5lFDtTklpRAhLx03dkKEgsSkR4qyQWYi8sjKgKAI4uMZ+gIf0EAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE4LTA4LTA0VDA5OjI3OjIzKzAwOjAwUEKdfQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOC0wOC0wNFQwOToyNzoyMyswMDowMCEfJcEAAAHZSURBVEiJtdY7aBRRFMbx364hjZhELFL4aMQHmC1S2NuIsQoKARFsBF+ICoLaWCqoKIKCnWAhG4zxgRaClYUP7GNhLSIEIgoWGh9rcW/0ZrLsTGZnP7gwdzh3/nNnzrnfqSmu1TiLDajhA65gbhnP6KgVOI57aCT3G5jCSfR1C9mJxxjvEDOOJxgrA9iEuziD/gLx/TG2iS1FAIO4jFsYLvGCw3HtVQy1C6jjEO5jtAQgq1E8wFHhH4MBTGOiAkBWE3gYGW5anE1Vq4EbhBTthbbhOb7iPUxWDFiFa5hHK475qkH78TEBLIyfVYFG8KINoDLQAK5b/JkqBx3ApxzAP1DZw/A2Di5nQb0EZHsG8rtXoHWZ+T687gWollzP4K3gVR3VrWGdwiuszwsss6NUMziMCzlxrbrudnVHODQv4ltyP5sgX+qYFSq7jHbjPLZipVAzTUtTf5rgqo8U96O9/hfiCWzEszg/bemB+lL0I4ILHhNcMc9hU1ATO5J5CpjFEYnDphoS/L5Tz5CCWviemf+IuxrMeWGETmZS+y4oC1oYf/AUm4sAshqLi9O+bk8byDvsKgNI1ScU5pSQyiP4FQFzQkLklkgtLyDRGpzDWqH/foNL+Fxk8V+3HIrd3rKJMQAAAABJRU5ErkJggg==)
 ![Nvim](https://img.shields.io/badge/-Nvim-574f44?style=flat-square&logo=neovim)
+![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
 </br>
