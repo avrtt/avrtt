@@ -3,7 +3,6 @@
 > #### 👨🏻‍💻 ML Researcher / Data Scientist
 - 🤔 Interested in computer vision, ML algorithms, statistics and data analysis
 - 📫 Contact me: **[<img src="https://github.com/lenferdetroud/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> lenferdetroud](https://t.me/lenferdetroud)**
-- 📕 Telegram channel: **[<img src="https://github.com/lenferdetroud/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> venturingforth](https://t.me/venturingforth)**
 - 📜 About me / CV: **[lenferdetroud.github.io](https://lenferdetroud.github.io/#/about)**
 
 <br>
