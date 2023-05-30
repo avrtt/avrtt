@@ -2,8 +2,8 @@
 
 > #### 👨🏻‍💻 ML Researcher / Data Scientist
 - 🤔 Interested in computer vision, ML algorithms, statistics and data analysis
-- 📫 Contact me: **[<img src="https://github.com/lenferdetroud/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> segfaultnomad](https://t.me/segfaultnomad)**
-- 📜 About me / CV: **[segfaultnomad.github.io](https://segfaultnomad.github.io/)**
+- 📫 Contact me: **[<img src="https://github.com/avarette/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> avrtte](https://t.me/avrtte)**
+- 📜 About me / CV: **[avarette.github.io](https://avarette.github.io/)**
 
 <br>
 
