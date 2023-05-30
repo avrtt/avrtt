@@ -2,8 +2,8 @@
 
 > #### 👨🏻‍💻 ML Researcher / Data Scientist
 - 🤔 Interested in computer vision, ML algorithms, statistics and data analysis
-- 📫 Contact me: **[<img src="https://github.com/avarette/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> avrtte](https://t.me/avrtte)**
-- 📜 CV: **[avarette.github.io](https://avarette.github.io/#/cv)**
+- 📫 Contact me: **[<img src="https://github.com/vladaverett/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> averett](https://t.me/averett)**
+- 📜 CV: **[vladaverett.github.io](https://vladaverett.github.io/#/cv)**
 
 <br>
 
