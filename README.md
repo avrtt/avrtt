@@ -3,7 +3,7 @@
 > #### 👨🏻‍💻 ML Researcher / Data Scientist
 - 🤔 Interested in computer vision, ML algorithms, statistics and data analysis
 - 📫 Contact me: **[<img src="https://github.com/avrtt/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> averett](https://t.me/averett)**
-- 📜 About me: **[avrtt.github.io](https://avrtt.github.io/)**
+- 📜 About me: **[avrtt.github.io/about](https://avrtt.github.io/about)**
 
 <br>
 
