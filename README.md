@@ -1,9 +1,11 @@
 [//]: <img src="https://github-readme-stats.vercel.app/api?username=lenferdetroud&show_icons=true&theme=github_dark&include_all_commits=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&hide_border=true)" align="right">
 
-> #### 👨🏻‍💻 ML Researcher / Data Scientist
-- 🤔 Interested in computer vision, ML algorithms, statistics and data analysis
+> #### 👨🏻‍💻 Data Scientist / ML Researcher & occasional dev (Python, Web)
+- 🤔 Main interests: deep learning, ML algorithms, statistics, data analysis and visualization
+- 🤓 Hobby-like areas: frontend, Python apps, prompt engineering
+- 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
+- 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
 - 📫 Contact me: **[<img src="https://github.com/avrtt/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> averett](https://t.me/averett)**
-- 📜 About me: **[avrtt.github.io](https://avrtt.github.io)**
 
 <br>
 
