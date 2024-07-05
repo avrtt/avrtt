@@ -5,7 +5,7 @@
 - 🤓 Hobby-like areas: frontend, Python apps, prompt engineering
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
 - 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
-- 📫 Contact me: **[<img src="https://github.com/avrtt/misc/blob/master/profile/icons/tg_new.png" alt="telegram_icon" width="15" height="15"> averett](https://t.me/averett)**
+- 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
 
 <br>
 
