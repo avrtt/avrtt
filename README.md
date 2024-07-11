@@ -8,7 +8,6 @@
 - 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
 
 <br>
-<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&card_width=510&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" /></a>
 
 > ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-e37a09?style=flat-square&logo=python)
@@ -62,4 +61,7 @@
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-574f44?style=flat-square&logo=googlesheets)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
-</br>
+<br><br>
+
+<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=false&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" /></a>
+<a href="https://leetcode.com/u/avrtt/"><img src="https://leetcard.jacoblin.cool/avrtt?theme=dark&font=Arimo&show_rank=true&width=500&height=200&border=1&radius=5" alt="LeetCode stats" /></a>
