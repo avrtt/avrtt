@@ -8,7 +8,7 @@
 - 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
 
 <br>
-<img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&card_width=510&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" />
+<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&card_width=510&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" /></a>
 
 > ### Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-e37a09?style=flat-square&logo=python)
