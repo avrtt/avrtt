@@ -65,10 +65,11 @@
 <br>
 
 > ### Autism trackers
-<p>
+<div>
   <a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=f0f0f0&fire=ffa016&currStreakLabel=dbdbdb&ring=ffa016&sideNums=dbdbdb&sideLabels=dbdbdb" alt="GitHub stats" /></a>
   <a href="https://leetcode.com/u/avrtt/"><img src="https://leetcard.jacoblin.cool/avrtt?theme=dark&font=Lato&show_rank=true&width=500&height=200&border=1&radius=5&hide=background" alt="LeetCode stats" /></a>
-</p>
-<span align="right">
-  <a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a>
-</span>
+</div>
+
+<div align="right" float="right"><a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a></div>
+
+
