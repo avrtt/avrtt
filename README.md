@@ -63,5 +63,5 @@
 
 <br><br>
 
-<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=false&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" /></a>
-<a href="https://leetcode.com/u/avrtt/"><img src="https://leetcard.jacoblin.cool/avrtt?theme=dark&font=Arimo&show_rank=true&width=500&height=200&border=1&radius=5" alt="LeetCode stats" /></a>
+<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=FFC000&fire=FFC000&currStreakLabel=ABABAB&ring=FFC000&sideNums=BFBFBF&sideLabels=BFBFBF" alt="GitHub stats" /></a>
+<a href="https://leetcode.com/u/avrtt/"><img src="https://leetcard.jacoblin.cool/avrtt?theme=dark&font=Arimo&show_rank=true&width=500&height=200&border=1&radius=5&hide=background" alt="LeetCode stats" /></a>
