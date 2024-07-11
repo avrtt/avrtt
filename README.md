@@ -2,8 +2,6 @@
 
 <a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a>
 
-<br>
-
 > #### 👨🏻‍💻 Data Scientist / ML Researcher & occasional dev (Python, Web)
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
 - 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
