@@ -3,10 +3,9 @@
 > #### 👨🏻‍💻 Data Scientist / ML Researcher & occasional dev (Python, Web) <a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img align="right" src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a>
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
 - 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
-- 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
 - 🤔 Main interests: deep learning, ML algorithms, statistics, data analysis and visualization
-- 🤓 Hobby-like areas: frontend, Python apps, prompt engineering
-- 🏆 Occasionally submitting to competitions (see my [Kaggle profile](https://www.kaggle.com/lenferdetroud))
+- 🤓 Doing for fun: frontend, Python apps, competitions (see [Kaggle profile](https://www.kaggle.com/lenferdetroud)) and prompt engineering
+- 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
 
 <br>
 
