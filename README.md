@@ -62,7 +62,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000"
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=000000&hide_border=true&bg_color=66000000"
   />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" alt="Languages stats"/>
 </picture>
