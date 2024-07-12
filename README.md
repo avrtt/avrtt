@@ -68,12 +68,6 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=000000&hide_border=true&bg_color=66000000" 
     alt="Languages stats"
   />
-  <source 
-    height="190" 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" 
-    alt="Languages stats"
-  />
   <img 
     height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" 
