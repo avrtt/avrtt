@@ -69,8 +69,19 @@
   />
 </a>
 
-<br>
-<br>
+<br><br>
+
+> ### Autism trackers (testing different themes)
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=f0f0f0&fire=ffa016&currStreakLabel=dbdbdb&ring=ffa016&sideNums=dbdbdb&sideLabels=dbdbdb"
+    alt="GitHub stats"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=f0f0f0&fire=ffa016&currStreakLabel=dbdbdb&ring=ffa016&sideNums=dbdbdb&sideLabels=dbdbdb" 
+    alt="GitHub stats" />
+</picture>
 
 > ### Autism trackers
 <div>
