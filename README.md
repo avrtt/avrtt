@@ -61,7 +61,7 @@
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-574f44?style=flat-square&logo=googlesheets)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
-<a href="https://github.com/avrtt?tab=repositories&q=&type=public"><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=0e1118" alt="Languages stats"/></a>
+<a href="https://github.com/avrtt?tab=repositories&q=&type=public"><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" alt="Languages stats"/></a>
 
 <br>
 
