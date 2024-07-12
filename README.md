@@ -63,14 +63,14 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" alt="Languages stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000"
     media="(prefers-color-scheme: dark)"
   />
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" alt="Languages stats"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <a href="https://github.com/avrtt?tab=repositories&q=&type=public"><img padding-bottom="1000" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" alt="Languages stats"/></a>
+  <a href="https://github.com/avrtt?tab=repositories&q=&type=public"><img padding-bottom="1000" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000"/></a>
 </picture>
 
 <p></p>
