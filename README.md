@@ -61,12 +61,13 @@
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-574f44?style=flat-square&logo=googlesheets)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran&langs_count=10&layout=compact"/>
+
 <br>
 
 > ### Autism trackers
 <div>
   <a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://streak-stats.demolab.com?user=avrtt&theme=transparent&hide_border=true&border_radius=5&card_width=500&card_height=200&dates=A0A0A078&currStreakNum=f0f0f0&fire=ffa016&currStreakLabel=dbdbdb&ring=ffa016&sideNums=dbdbdb&sideLabels=dbdbdb" alt="GitHub stats" /></a>
   <a href="https://leetcode.com/u/avrtt/"><img src="https://leetcard.jacoblin.cool/avrtt?theme=dark&font=Lato&show_rank=true&width=500&height=200&border=1&radius=5&hide=background" alt="LeetCode stats" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran&langs_count=10&layout=compact"/>
 </div>
 
