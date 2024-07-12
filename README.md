@@ -79,7 +79,6 @@
 </div>
 
 <br>
-<br>
 
 > ### Autism trackers
 <div>
