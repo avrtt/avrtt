@@ -61,20 +61,15 @@
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-574f44?style=flat-square&logo=googlesheets)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-574f44?style=flat-square&logo=latex)
 
-<picture>
-  <source 
-    height="190" 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=000000&hide_border=true&bg_color=66000000" 
-    alt="Languages stats"
-  />
+<a href="https://github.com/avrtt?tab=repositories&q=&type=public">
   <img 
     height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=FFFFFF&hide_border=true&bg_color=66000000" 
-    alt="Languages stats"/>
-</picture>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=avrtt&size_weight=0.5&count_weight=0.5&hide=fortran,assembly&langs_count=10&layout=compact&hide_title=true&text_color=dbdbdb&hide_border=true&bg_color=66000000" 
+    alt="Languages stats"
+  />
+</a>
 
-<p></p>
+<br>
 <br>
 
 > ### Autism trackers
