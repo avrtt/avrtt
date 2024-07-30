@@ -44,6 +44,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-403d39?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-403d39?style=flat-square&logo=css3)
 ![Docker](https://img.shields.io/badge/-Docker-574f44?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-574f44?style=flat-square&logo=amazonwebservices)
 ![npm](https://img.shields.io/badge/-npm-574f44?style=flat-square&logo=npm)
 ![Webpack](https://img.shields.io/badge/-Webpack-574f44?style=flat-square&logo=webpack)
 ![Yarn](https://img.shields.io/badge/-Yarn-574f44?style=flat-square&logo=yarn)
