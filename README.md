@@ -1,5 +1,9 @@
 [//]: <img src="https://github-readme-stats.vercel.app/api?username=lenferdetroud&show_icons=true&theme=github_dark&include_all_commits=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&hide_border=true)" align="right">
 
+<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=Total%20GitHub%20stars%20%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a>
+
+<br>
+
 > #### 👨🏻‍💻 Data Scientist / ML Researcher & occasional dev (Python, Web)
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
 - 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
@@ -112,8 +116,4 @@
     </picture>
   </a>
 </div>
-
-<br>
-
-<a href="https://github.com/avrtt?tab=repositories&q=&type=&language=&sort=stargazers"><img align="right" src="https://img.shields.io/github/stars/avrtt?style=flat-square&logoColor=white&logoSize=auto&label=Total%20GitHub%20stars%20%E2%AD%90&labelColor=%23404040&color=%23ffa82a"></a>
 
