@@ -117,3 +117,7 @@
   </a>
 </div>
 
+<br>
+
+> ### FYI
+![this_is_where_i_contribute_from](this_is_where_i_contribute_from.jpg)
