@@ -9,10 +9,10 @@
 - 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
 - 🤔 Main areas: deep learning, ML algorithms, statistics, data analysis and visualization
 - 🤓 Secondary interests: frontend, Python apps and prompt engineering
+- 🤫 Session: **05a7b2f8134fc6915ded9df78f9c834a33a9157ce43d8ec40a195db8e3f834f35f**
+- 🔑 [PGP key](https://raw.githubusercontent.com/avrtt/pgp-keys/main/general.asc) | 15C4 A679 94B2 DD2E 8A41 4D5D 26F2 **<ins>1D0A D318 41E1</ins>**
+- 🌐 [m]: **[!kpVZVmAVJHNbvpnNGc](https://matrix.to/#/!kpVZVmAVJHNbvpnNGc:digitalprivacy.diy):digitalprivacy.diy**
 - 💬 Telegram: **[@averett](https://t.me/averett)** (personal), **[@avheuristics](https://t.me/avheuristics)** (blog)
-- 🤫 Session: 05a7b2f8134fc6915ded9df78f9c834a33a9157ce43d8ec40a195db8e3f834f35f
-- 🔑 [PGP key](https://raw.githubusercontent.com/avrtt/pgp-keys/main/general.asc) | 15C4 A679 94B2 DD2E 8A41 4D5D 26F2 <ins>1D0A D318 41E1</ins>
-- 🌐 [m]: !kpVZVmAVJHNbvpnNGc:digitalprivacy.diy
 
 <br>
 
