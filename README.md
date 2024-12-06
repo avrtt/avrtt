@@ -119,5 +119,12 @@
 
 <br>
 
+> ### Magic scribbles
+- <ins>!kpVZVmAVJHNbvpnNGc</ins>:**digitalprivacy.diy** [m]  
+- **Session**: <ins>05a7b2f8134fc6915ded9df78f9c834a33a9157ce43d8ec40a195db8e3f834f35f</ins>  
+- [PGP key](https://raw.githubusercontent.com/avrtt/pgp-keys/main/general.asc) | Fingerprint: <ins>15C4 A679 94B2 DD2E 8A41 4D5D 26F2 **1D0A D318 41E1**</ins>
+
+<br>
+
 > ### FYI
 ![this_is_where_i_contribute_from](this_is_where_i_contribute_from.jpg)
