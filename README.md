@@ -6,7 +6,7 @@
 
 > #### 👨🏻‍💻 Data scientist, AI researcher & occasional dev (Python, Web)
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
-- 🤝 Freelance services: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
+- 🤝 Freelance services & portfolio: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
 - 🤔 Main areas: deep learning, ML algorithms, statistics, data analysis and visualization
 - 🤓 Secondary interests: frontend, Python apps and prompt engineering
 - 🔎 Currently developing skills towards AI engineering
