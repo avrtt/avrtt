@@ -125,3 +125,24 @@
 
 > ### FYI
 ![this_is_where_i_contribute_from](this_is_where_i_contribute_from.jpg)
+
+<br><br>
+
+<div>
+  <a href="https://github.com/avrtt/avrtt.github.io">
+    <picture>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
+        alt="Extra repository pin"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=dbdbdb&bg_color=66000000" 
+        alt="Extra repository pin"
+      />
+    </picture>
+  </a>
+</div>
+
+
+
