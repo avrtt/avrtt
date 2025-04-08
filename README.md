@@ -139,13 +139,13 @@
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
     </a>
   </span>
-  &nbsp;
+  &nbsp;&nbsp;
   <span>
     <a href="https://github.com/avrtt/avrtt.github.io">
       <picture>
@@ -156,7 +156,7 @@
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
