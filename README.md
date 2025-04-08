@@ -133,8 +133,9 @@
     <a href="https://github.com/avrtt/avrtt.github.io">
       <picture>
         <source
+          height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&border_radius=6"
           alt="Extra repository pin"
         />
         <img
@@ -147,16 +148,17 @@
   </span>
   &nbsp;&nbsp;
   <span>
-    <a href="https://github.com/avrtt/avrtt.github.io">
+    <a href="https://github.com/avrtt/arch-dotfiles">
       <picture>
         <source
+          height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=arch-dotfiles&border_radius=6
           alt="Extra repository pin"
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=arch-dotfiles&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
