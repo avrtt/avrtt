@@ -137,7 +137,7 @@
         alt="Extra repository pin"
       />
       <img
-        height="120"
+        height="130"
         src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=dbdbdb&bg_color=66000000" 
         alt="Extra repository pin"
       />
