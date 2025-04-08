@@ -138,7 +138,7 @@
           alt="Extra repository pin"
         />
         <img
-          height="140"
+          height="130"
           src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
           alt="Extra repository pin"
         />
@@ -155,7 +155,7 @@
           alt="Extra repository pin"
         />
         <img
-          height="140"
+          height="130"
           src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
           alt="Extra repository pin"
         />
