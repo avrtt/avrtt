@@ -135,12 +135,12 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&border_radius=6"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&border_radius=8"
           alt="Extra repository pin"
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=8&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
@@ -153,12 +153,12 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&border_radius=6"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&border_radius=8"
           alt="Extra repository pin"
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=8&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
@@ -172,12 +172,12 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&border_radius=6"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&border_radius=8"
           alt="Extra repository pin"
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=8&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
@@ -190,7 +190,7 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&border_radius=6"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&border_radius=8"
           alt="Extra repository pin"
         />
         <img
