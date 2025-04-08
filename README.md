@@ -165,6 +165,43 @@
     </a>
   </span>
 </div>
+<div align="center">
+  <span>
+    <a href="https://github.com/avrtt/pochemuchka">
+      <picture>
+        <source
+          height="130"
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&border_radius=6"
+          alt="Extra repository pin"
+        />
+        <img
+          height="130"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          alt="Extra repository pin"
+        />
+      </picture>
+    </a>
+  </span>
+  &nbsp;&nbsp;
+  <span>
+    <a href="https://github.com/avrtt/paysage">
+      <picture>
+        <source
+          height="130"
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&border_radius=6
+          alt="Extra repository pin"
+        />
+        <img
+          height="130"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=paysage&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          alt="Extra repository pin"
+        />
+      </picture>
+    </a>
+  </span>
+</div>
 
 
 
