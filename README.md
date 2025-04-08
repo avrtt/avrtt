@@ -195,7 +195,7 @@
         />
         <img
           height="130"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=6&border_color=3d444d" 
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&text_color=9198a1&bg_color=66000000&icon_color=9198a1&border_radius=7&border_color=3d444d" 
           alt="Extra repository pin"
         />
       </picture>
