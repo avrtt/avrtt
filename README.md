@@ -128,36 +128,41 @@
 
 <br><br>
 
-<span>
-  <a href="https://github.com/avrtt/avrtt.github.io">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
-        alt="Extra repository pin"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=757575" 
-        alt="Extra repository pin"
-      />
-    </picture>
-  </a>
-</span>
-<span>
-  <a href="https://github.com/avrtt/avrtt.github.io">
-    <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
-        alt="Extra repository pin"
-      />
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=757575" 
-        alt="Extra repository pin"
-      />
-    </picture>
-  </a>
-</span>
+<div>
+  <span>
+    <a href="https://github.com/avrtt/avrtt.github.io">
+      <picture>
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
+          alt="Extra repository pin"
+        />
+        <img
+          height="140"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
+          alt="Extra repository pin"
+        />
+      </picture>
+    </a>
+  </span>
+  &nbsp;
+  <span>
+    <a href="https://github.com/avrtt/avrtt.github.io">
+      <picture>
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io"
+          alt="Extra repository pin"
+        />
+        <img
+          height="140"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=avrtt.github.io&text_color=919b9c&bg_color=66000000&icon_color=919b9c&border_radius=6&border_color=696969" 
+          alt="Extra repository pin"
+        />
+      </picture>
+    </a>
+  </span>
+</div>
 
 
 
