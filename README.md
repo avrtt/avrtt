@@ -153,7 +153,7 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&border_radius=6
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=MobileEAST&border_radius=6"
           alt="Extra repository pin"
         />
         <img
@@ -190,7 +190,7 @@
         <source
           height="130"
           media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&border_radius=6
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=avrtt&repo=pochemuchka&border_radius=6"
           alt="Extra repository pin"
         />
         <img
