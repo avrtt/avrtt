@@ -128,7 +128,7 @@
 
 <br><br>
 
-<div>
+<div align="center">
   <span>
     <a href="https://github.com/avrtt/avrtt.github.io">
       <picture>
