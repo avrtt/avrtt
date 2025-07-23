@@ -4,7 +4,7 @@
 
 <br>
 
-> #### 👨🏻‍💻 Data scientist, AI researcher & occasional dev (Python, Web)
+> #### 👨🏻‍💻 Data scientist, ML engineer & occasional Python/web dev
 - 📜 About me: **[avrtt.blog/about](https://avrtt.github.io/about)**
 - 🤝 Freelance services & portfolio: **[avrtt.blog/freelance](https://avrtt.github.io/freelance)**
 - 🤔 Main areas: deep learning, ML algorithms, statistics, data analysis and visualization
